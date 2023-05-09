@@ -1,0 +1,5 @@
+küsimustik2;küsimused.txt
+küsimustik3;küsimused3.txt
+küsimustik4;küsimused4.txt
+küsimustik3;küsimu
+küsimus;küsimused4.txt

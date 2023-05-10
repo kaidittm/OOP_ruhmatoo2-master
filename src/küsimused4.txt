@@ -1,7 +1,0 @@
-Küsimus 1
-Jah
-Ei
-
-Küsimus 2
-Jah
-Ei

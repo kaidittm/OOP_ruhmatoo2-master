@@ -1,0 +1,7 @@
+Mida tähendab OOP?
+Objektorienteeritud programmeerimine
+
+Milline neist on programmeerimiskeel?
+Python
+Kobra
+Boa

@@ -10,7 +10,6 @@ public class Kasutaja {
         this.parool = parool;
     }
 
-
     //get- ja set-meetodid info kättesaamiseks ja -muutmiseks
     public String getKasutajanimi() {
         return kasutajanimi;

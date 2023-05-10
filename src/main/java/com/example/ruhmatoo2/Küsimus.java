@@ -47,6 +47,7 @@ public class Küsimus {
             indeks++;
         }
     }
+
     //küsib kasutajalt vastust ja kontrollib selle õigsust
     public boolean kirjutaVastus(){
         Scanner scanner = new Scanner(System.in);

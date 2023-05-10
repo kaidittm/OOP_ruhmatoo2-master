@@ -1,2 +1,2 @@
-user;pass2
+kasutaja;parool
 tigu;kiire
